@@ -1,4 +1,6 @@
 # Folder-Locker
+By Uditha Kanishka.
+
 Lock your folders with a password.
 -----------------------------------------------
 First open the application
