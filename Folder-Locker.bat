@@ -37,7 +37,7 @@ goto End
 :UNLOCK
 echo Enter password to Unlock folder
 set/p "pass=>"
-if NOT %pass%== uditha29 goto FAIL
+if NOT %pass%== passwordhear goto FAIL
 attrib -h -s Locker
 echo Folder Unlocked successfully
 goto End
