@@ -9,3 +9,5 @@ And select option you want to performe.
 
 Note:
 You can change the password by editing the source code.
+
+If you like to help me - email.uditha@gmail.com
